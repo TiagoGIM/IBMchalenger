@@ -30,11 +30,12 @@ Inicie o serviço desejado para pegar as credênciais, URL e API KEY da aplicaç
 ```
 from tokens import auths
 ```
-* Subistituir os valores das variaveis url e api-key com suas credênciais.
+* Subistituir os valores das variaveis _url_ e _api-key_ para a suas credênciais.
 
 api_key = ~~auths['visualrecog']['api-key']~~
 url = ~~auths['visualrecog']['url']~~
 
+**obs.: Devem ser do tipo strings.**
 ## Links de referência
 
 * [Visual recognition IBM](https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3?code=python)- IBM Cloud Documentation
