@@ -4,7 +4,7 @@ Alguns exemplos de como usar as ferramentas da *IBM cloud* que aprendi durante o
 
 Os algoritimos foram feitos em ambiente linux (wsl). :bowtie:
 
-### Serviços abordados aqui:
+###### Serviços abordados aqui:
 - [x] Visual Recognition
 - [ ] Watson Assistant
 - [ ] Language Translator
