@@ -1,6 +1,6 @@
 # IBMchalenger
 
-Alguns exemplos de como usar as ferramentas da *IBM cloud* que aprendi durante o _'Be hind the code 2020'_. 
+Alguns exemplos de como usar as ferramentas da **IBM cloud** que aprendi durante o **_'Be hind the code 2020'_**. 
 
 Os algoritimos foram feitos em ambiente linux (wsl). :bowtie:
 
