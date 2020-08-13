@@ -1,10 +1,10 @@
 # IBMchalenger
 
-Alguns exemplos de como usar as ferramentas da IBM cloud que aprendi durante o 'Be hind the code 2020'. :bowtie:
+Alguns exemplos de como usar as ferramentas da *IBM cloud* que aprendi durante o _'Be hind the code 2020'_. 
 
-Os algoritimos foram feitos em ambiente linux (wsl)
+Os algoritimos foram feitos em ambiente linux (wsl). :bowtie:
 
-# Serviços abordados aqui:
+### Serviços abordados aqui:
 - [x] Visual Recognition
 - [ ] Watson Assistant
 - [ ] Language Translator
