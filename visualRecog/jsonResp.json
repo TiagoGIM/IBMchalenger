@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "objetos_1461029859",
+          "name": "objetos",
+          "classes": [
+            {
+              "class": "chair",
+              "score": 0.905
+            }
+          ]
+        }
+      ],
+      "image": "mesa.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 3
+}

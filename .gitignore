@@ -1,2 +1,12 @@
 visualRecog/tokens.py
+visualRecog/__pycache__/
+languageTranslator/tokens.py
+languageTranslator/__pycache__/
+ibm-credentials.env
+machineLearning/__pycache__/
+machineLearning/tokens.py
+assistente/
+
 __pycache__/
+
+
