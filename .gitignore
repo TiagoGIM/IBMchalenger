@@ -6,7 +6,12 @@ ibm-credentials.env
 machineLearning/__pycache__/
 machineLearning/tokens.py
 assistente/
-
+desafio1-2020/largataSoja
+desafio1-2020/NlargataSoja
+desafio1-2020/percevejoMarrom
+desafio1-2020/percevejoverde
+desafio1-2020/tokens.py
+visualRecog/
 __pycache__/
 
 
